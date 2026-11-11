@@ -3,7 +3,7 @@ lname = str(input("Enter last name: "))
 section = str(input("Enter section: "))
 favSubj = str(input("Enter favorite subject: "))
 
-print("\nFormatted Output: ")
+print("\nNon-Formatted Output: ")
 print(f"Name: {fname} {lname}")
 print(f"Name Code: {fname} {lname}")
 print(f"Section: {section}")
